@@ -2,6 +2,8 @@
 
 This is a React course project build to apply the knowledge obtained in a practical way, the approach taken was typing line by line and referring to the documentation linked on this page.
 
+Test the application here: https://lc-online-store.herokuapp.com/ (I'm still working on PWA version)
+
 ## Installation and Usage
 
 Use the package manager [npm](https://docs.npmjs.com/) to install the required node modules. After the process is complete, you can run the project locally that by default will use port: 3000
@@ -22,6 +24,7 @@ On this project, you will find a complete e-commerce flow such as homepage, sign
 - [SASS](https://sass-lang.com/)
 - [Firebase](https://firebase.google.com/docs)
 - [Stripe API](https://stripe.com/docs/api)
+- [Heroku](https://devcenter.heroku.com/)
 
 ## Contributing
 
