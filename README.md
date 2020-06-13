@@ -2,8 +2,6 @@
 
 This is a React course project build to apply the knowledge obtained in a practical way, the approach taken was typing line by line and referring to the documentation linked on this page.
 
-Test the application here: https://lc-online-store.herokuapp.com/ (I'm still working on PWA version)
-
 ## Installation and Usage
 
 Use the package manager [npm](https://docs.npmjs.com/) to install the required node modules. After the process is complete, you can run the project locally that by default will use port: 3000
